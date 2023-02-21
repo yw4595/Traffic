@@ -1,0 +1,12 @@
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Traffic.exe
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Traffic.pdb
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.exe
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.pdb
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Vehicles.dll
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Vehicles.pdb
+C:\Users\Wiz\Desktop\IGME 201\Traffic\bin\Debug\Vehicles.dll.config
+C:\Users\Wiz\Desktop\IGME 201\Traffic\obj\Debug\Traffic.csproj.CopyComplete
